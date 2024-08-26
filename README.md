@@ -1,6 +1,6 @@
 ## Overview
 
-This project focuses on developing end to end fully functional AI-driven autonomous robot car. The project is base on 
+This project focuses on developing end to end fully functional AI-driven autonomous robot car. The project is base on https://github.com/zhoumiaosen/Self_Drive_Car_Line_Tracking 
 
 ## Project Structure
 ```plaintext
