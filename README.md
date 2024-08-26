@@ -74,12 +74,10 @@ End to end AI self driving:
 https://github.com/user-attachments/assets/3a7739e7-db5b-4ca6-a7ff-d4323a111132
 
 ## Next Steps
-- **AI Model Deploy :**
- Experiment with neural network architectures to improve car self drive performance.
-- **End-to-End AI System :**
-Consider exploring end-to-end learning approaches where a neural network directly controls the robot based on raw camera input.
+- **Coding Change :**
+Given the challenges of installing OpenCV and TensorFlow, the project will be re-coded using Picamera2, PIL, and PyTorch for more streamlined development.
 - **Reinforcement Learning :**
-Experiment with reinforcement learning to further advance your project into a more complex AI-driven system.
+Experiment with reinforcement learning to further advance the project into a more complex AI-driven system.
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request to contribute to the project.
