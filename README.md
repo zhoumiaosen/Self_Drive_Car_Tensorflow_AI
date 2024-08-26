@@ -30,12 +30,15 @@ Car_Line_Tracking/
 
 - Python 3.7+
 - opencv
+- tensorflow
+- keras
+- numpy
 - RPi.GPIO
 
 You can install the necessary packages using the following command:
 
 ```bash
-pip install opencv-python 
+pip install opencv-python tensorflow keras numpy
 ```
 
 ## How to Run
