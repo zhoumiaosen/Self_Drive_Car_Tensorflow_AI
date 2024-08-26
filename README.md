@@ -1,6 +1,7 @@
 ## Overview
 
-This project focuses on developing end to end fully functional AI-driven autonomous robot car. The project is based on [Self_Drive_Car_Line_Tracking](https://github.com/zhoumiaosen/Self_Drive_Car_Line_Tracking)
+This project focuses on developing a fully functional end to end AI-driven autonomous robot car, based on the [Self_Drive_Car_Line_Tracking](https://github.com/zhoumiaosen/Self_Drive_Car_Line_Tracking). The project requires control boards with a Raspberry Pi 4 B and an Adeept Motor Hat V2, and it uses an Adeept 2-wheel robot car. The project involves using the Pi camera to collect data, which is then used to train the AI model. The trained model will enable the robot car to react appropriately to its real-world environment.
+
 ## Project Structure
 ```plaintext
 Car_Line_Tracking/
