@@ -59,7 +59,7 @@ python src/car_AI_train.py
 ```
 
 ### 3. Run AI Model on the Robot Car
-Execute the AI-driven operation of the robot car with a single command:
+The robot car will capture a 64x64 image and pass it to the AI model, which will determine the corresponding action, allowing the robot to react to the environment in real time. Execute the AI-driven operation of the robot car with a single command:
 
 ```bash
 python src/car_AI_Run.py
