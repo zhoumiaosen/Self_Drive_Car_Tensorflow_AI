@@ -1,6 +1,6 @@
 ## Overview
 
-This project focuses on developing end to end fully functional AI-driven autonomous robot car. The project is based on [GitHub Pages](https://github.com/zhoumiaosen/Self_Drive_Car_Line_Tracking)
+This project focuses on developing end to end fully functional AI-driven autonomous robot car. The project is based on [Self_Drive_Car_Line_Tracking](https://github.com/zhoumiaosen/Self_Drive_Car_Line_Tracking)
 ## Project Structure
 ```plaintext
 Car_Line_Tracking/
