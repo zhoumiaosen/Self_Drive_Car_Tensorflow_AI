@@ -1,6 +1,6 @@
 ## Overview
 
-This project focuses on developing a line-following robot car using OpenCV, powered by a Raspberry Pi 4 B and controlled via an Adeept Motor Hat V2. The robot, based on the Adeept 2-wheel robot car, will autonomously follow a line by processing visual input, employing motor control, and integrating line detection and tracking. This endeavor serves as a foundational step towards creating a fully functional AI-driven autonomous robot car.
+This project focuses on developing end to end fully functional AI-driven autonomous robot car. The project is base on 
 
 ## Project Structure
 ```plaintext
