@@ -43,14 +43,31 @@ pip install opencv-python tensorflow keras numpy
 
 ## How to Run
 
-### 1. Run Line Tracking 
+### 1. Run data collection on the robot car
+
+Run car image date collection with one cmd:
+
+```bash
+python src/car_data_capture.py
+```
+
+### 2. Run model training on pc with GPU
+
+Run AI modle training with one cmd:
+
+```bash
+python src/car_AI_train.py
+```
+
+### 3. Run AI model on the robot car  
 
 Run car with one cmd:
 
 ```bash
 python src/car_AI_Run.py
 ```
-### 2. Hardware	
+
+### 4. Hardware	
 #### Control Board
 Raspberry pi 4 B:<br>
 <img src="assets/Raspberry_pi_4.png" alt="Diagram" width="250">
