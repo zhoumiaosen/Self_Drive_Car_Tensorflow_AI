@@ -45,6 +45,7 @@ pip install opencv-python tensorflow keras numpy
 
 ### 1. Run data collection on the robot car
 
+Execute the image data collection for the car with a single command, saving the images to files corresponding to the control keys: w/, a/, s/, and d/
 Run car image date collection with one cmd:
 
 ```bash
