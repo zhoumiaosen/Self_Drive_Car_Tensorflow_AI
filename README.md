@@ -12,13 +12,9 @@ Car_Line_Tracking/
 │   ├── car_AI_Run.py  
 │   ├── car_AI_train.py
 │   └── car_data_capture.py  
-│ 
 │                         
 ├── models/
-│   ├── car_drive_Sep_26_2023_V5.h5 
-│   ├── car_drive_v3.h5
 │   └── car_drive.h5
-│ 
 │ 
 ├── DIR/
 │   ├── a/
