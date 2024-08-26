@@ -44,25 +44,22 @@ pip install opencv-python tensorflow keras numpy
 ## How to Run
 
 ### 1. Run data collection on the robot car
-
-Execute the image data collection for the car with a single command, saving the images to files corresponding to the control keys: w/, a/, s/, and d/
+Execute the image data collection for the car with a single command, saving the images to files corresponding to the control keys: w/, a/, s/, and d/.
 Run car image date collection with one cmd:
 
 ```bash
 python src/car_data_capture.py
 ```
 
-### 2. Run model training on pc with GPU
-
-Run AI modle training with one cmd:
+### 2. Run Model Training on PC with GPU
+Execute AI model training with a single command on a GPU-equipped PC:
 
 ```bash
 python src/car_AI_train.py
 ```
 
-### 3. Run AI model on the robot car  
-
-Run car with one cmd:
+### 3. Run AI Model on the Robot Car
+Execute the AI-driven operation of the robot car with a single command:
 
 ```bash
 python src/car_AI_Run.py
